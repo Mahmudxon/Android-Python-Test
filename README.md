@@ -1,1 +1,1 @@
-# Android-Python-Test by using Chaquopy
+# Test python script on Android Project by using Chaquopy
